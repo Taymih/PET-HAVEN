@@ -1,0 +1,9 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+h1,ul{
+font-family: 'Playfair Display', serif;
+}
+.top-tier{
+    display:flex;
+}

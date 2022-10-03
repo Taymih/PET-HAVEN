@@ -1,9 +1,18 @@
 body{
     font-family: 'Poppins', sans-serif;
+    font-size:18px;
 }
-h1,ul{
-font-family: 'Playfair Display', serif;
+.container{
+    display:100%;
+    max-width:800px;
 }
-.top-tier{
-    display:flex;
+.body-content{
+margin:0 auto;
+}
+.body-1{
+    margin-bottom:60px;
+}
+h2{
+    font-family: 'Playfair Display', serif;
+    font-size:20px;
 }
